@@ -1,4 +1,5 @@
 PROJE 1
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
 1)Adım 1: 22,27,16,2,18,6
 Adım 2: 16,22,27,2,18,6
