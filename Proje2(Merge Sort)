@@ -1,1 +1,10 @@
+[16,21,11,8,12,22] -> Merge Sort
 
+1. 16,21 - 11
+2. 11,16,21 Left subarray
+3. 8,12 - 22 Right subarray stands stll
+4. Compare the left elements of the arrays and make the necessary moves.
+ Which is 8,11,12,16,21,22
+5. We start the comparison with the left side first. Then make the merge.
+
+Big O: n.logn 
